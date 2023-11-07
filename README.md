@@ -14,8 +14,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/stats-preview-card-component-responsive-using-grid-and-flexbox-8HI9H2bC-B](https://www.frontendmentor.io/solutions/stats-preview-card-component-responsive-using-grid-and-flexbox-8HI9H2bC-B)
+- Live Site URL: [https://sircarloschaves.github.io/stats-preview-card-component/](https://sircarloschaves.github.io/stats-preview-card-component/)
 
 ## My process
 
