@@ -196,6 +196,7 @@ footer a {
     padding-inline-end: 4rem;
     padding-block: 3.5rem;
     justify-content: center;
+    align-items: start;
   }
 
   .title {
@@ -205,10 +206,10 @@ footer a {
   .paragraph {
     font-size: 1rem;
     margin-top: 1.6rem;
+    padding-inline-end: 3rem;
   }
 
   .stats-wrapper {
-    align-self: start;
     width: 85%;
     flex-direction: row;
     justify-content: space-between;
